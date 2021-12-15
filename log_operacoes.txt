@@ -1,0 +1,15 @@
+Variavel 'i' declarada
+Variavel 'i' atualizada o valor para '0'
+Variavel 'n' declarada
+Variavel 'n' atualizada o valor para '0'
+Variavel 'auxiliar' declarada
+Variavel 'auxiliar' atualizada o valor para '0'
+Variavel 'a' declarada
+Variavel 'a' atualizada o valor para '0'
+Variavel 'b' declarada
+Variavel 'b' atualizada o valor para '1'
+Variavel 'n' atualizada o valor para 'n-1'
+Variavel 'auxiliar' atualizada o valor para 'a+b'
+Variavel 'a' atualizada o valor para 'b'
+Variavel 'b' atualizada o valor para 'auxiliar'
+Variavel 'i' atualizada o valor para 'i+1'

@@ -60,7 +60,7 @@ class Semantico:
         else:
             self.insert(var)
 
-    #Método responsavel por inserir dados na tabela
+    #Método responsavel por insert dados na tabela
     def insert(self, token):        
         self.symbol_table[token[1]] = [token[0], 1, 0]
         self.reg_operacao(1, token[1], token[2])
@@ -115,7 +115,7 @@ class Semantico:
         elif (val == 2):
             self.arquivo.write("Variavel '{0}' atualizada o valor para '{1}'\n".format(variavel, value))
     
-    #Método que imprimi o resultado
+    #Método que imprimri o resultado
     def log_operacoes(self):
         arquivo = open("log_operacoes.txt","r")
         print(" -=-"*20)

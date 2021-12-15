@@ -1,0 +1,17 @@
+Declaracao de variaveis realizada
+Empilhamento de endereco de retorno
+Atribuicoes de variaveis executado
+Atribuicoes de variaveis executado
+Atribuicoes de variaveis executado
+Atribuicoes de variaveis executado
+Atribuicoes de variaveis executado
+Comando read executado
+Comando print executado
+Atribuicoes de variaveis executado
+Comando `do` executado
+Atribuicoes de variaveis executado
+Atribuicoes de variaveis executado
+Atribuicoes de variaveis executado
+Comando print executado
+Atribuicoes de variaveis executado
+Comando while executado

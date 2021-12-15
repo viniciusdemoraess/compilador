@@ -1,0 +1,20 @@
+_Var i
+_Var n
+_Var auxiliar
+_Var a
+_Var b
+i =   0
+n =   0
+auxiliar =   0
+a =   0
+b =   1
+leia n
+escreva b
+n =   n  1 -
+repita
+auxiliar =   a  b +
+a =   b
+b =   auxiliar
+escreva auxiliar
+i =   i  1 +
+enquanto  n > i

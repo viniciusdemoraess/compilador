@@ -1,0 +1,21 @@
+Declarado variavel i
+Declarado variavel n
+Declarado variavel auxiliar
+Declarado variavel a
+Declarado variavel b
+Atribuido a i a expressao   0
+ Atribuido a n a expressao   0
+ Atribuido a auxiliar a expressao   0
+ Atribuido a a a expressao   0
+ Atribuido a b a expressao   1
+ Comando de leitura da variavel n 
+Comando de escrita da variavel b
+Atribuido a n a expressao   n  1 -
+ Comando de repeticao `do` reconhecido
+ Atribuido a auxiliar a expressao   a  b +
+ Atribuido a a a expressao   b
+ Atribuido a b a expressao   auxiliar
+ Comando de escrita da variavel auxiliar
+Atribuido a i a expressao   i  1 +
+ Comando de repeticao `while` reconhecido
+ 
