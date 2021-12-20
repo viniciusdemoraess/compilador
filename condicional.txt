@@ -1,0 +1,29 @@
+initial;
+
+    int maca = 2;
+    int banana;
+
+    read(banana);
+    banana = (5*8)/maca;
+
+    if(banana > maca) then 
+        print(banana);
+    else
+        print(maca);
+    endif;
+
+    
+finish;
+    
+
+
+
+
+
+
+
+
+
+
+
+
